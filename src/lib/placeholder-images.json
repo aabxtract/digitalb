@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "preview-placeholder",
+      "description": "A placeholder image showing a celestial, abstract glow, waiting for a blessing to be written.",
+      "imageUrl": "https://images.unsplash.com/photo-1763771787104-6fa25b9becc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGdsb3d8ZW58MHx8fHwxNzYzODQ0MzIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract glow"
+    }
+  ]
 }
